@@ -1,0 +1,5 @@
+{
+  "name": "EV Charge Optimizer",
+  "description": "Optimize your EV charging with smart scheduling, real-time grid data, and station location.",
+  "requestFramePermissions": []
+}
